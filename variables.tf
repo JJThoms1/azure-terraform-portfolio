@@ -4,7 +4,7 @@ variable "client_id" {}
 variable "client_secret" {}
 
 variable "location" {
-  default = "East US"
+  default = "West US 2"
 }
 
 variable "environment" {
